@@ -2,10 +2,10 @@
 ## Task 1 : Data Exploration and Summary
 ### Objective: Understand and summarize key statistics in the dataset.
 ### Steps
-1. The data set was loaded into the Powerbi using the get data option from Excel work book.
-2. Then the data types of the each column were examined and correcteds if necessary.
+1. The data set was loaded into the PowerBI using the get data option from Excel workbook.
+2. Then the data types of the each column were examined and corrected if necessary.
 3. Dax Functions were  used to calculate the avg_age, gold, FD, equatiy e.t.c using the Avg, Countrows like functions.
-4. Finally the dash board was created as below.
+4. Finally Dashboard was created as below.
 
 ![alt text](Task_1.png)
 
@@ -16,7 +16,7 @@
 
 #### Key Insights :-
 1. In three investment types the male percentage is higher than the female percent.
-2. A round 60 -70 percent investments in each category were done by the males and remaining  30- 40 percent by the female population.
+2. A round 60-70 percent investments in each category were done by the males and remaining  30-40 percent by the female population.
 3. Among all the three investments the government bonds were  highest in both female and male population.
 4. On an average 28 is the average age in both male and female population who are into these investments.
 5. The major reason of the investments is retirement plan in both males and females.
@@ -27,7 +27,7 @@
 ![alt text](Task_3.png)
 
 1. Pearson correlation was calculated
-2. The relationship between the investment choice and saving objective was visualized
+2. The relationship between the investment choice and saving objective was visualized.
 
 ## Task 4 : Investment Duration and Frequency
 ### Objective: Analyze investment durations and monitoring frequencies.
@@ -65,13 +65,14 @@ Key Insights:-
 ## Task 7: Combine Insights into a Dashboard
 ### Objective: Create a comprehensive dashboard incorporating all insights.
 . Finally all the task visuals were taken and the best were chosen to represent the data in meaningful way and final dashboard was created.
+
 ![alt text](final.png)
 
 ## Conclusion
-1. A mong all the investment types the gold was preferred more than the others.
-2. The male population were more aggressive ini investments and female were balanced.
-3. In Avenue types the mutual funds were preferred more than the others.
+1. Among all the investment types the gold was preferred more than the others.
+2. The male population were more aggressive in investments and female were balanced.
+3. In Avenue types Mutual funds were preferred more than the others.
 4. The main reason for the investment was the retirement planning.
 5. Financial consultants were highly preferred for advice for the investments.
-6. Finally people were interested in investmnents because as a passive income the high returns can be expected form the invesments then the other sources.
+6. Finally people were interested in investments because as a passive income the high returns can be expected form the invesments then the other sources.
 
