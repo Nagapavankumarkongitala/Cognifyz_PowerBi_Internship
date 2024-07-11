@@ -7,4 +7,4 @@ Objective: Understand and summarize key statistics in the dataset.
 3. Dax Functions were  used to calculate the avg_age, gold, FD, equatiy e.t.c using the Avg, Countrows like functions.
 4. Finally the dash board was created as below.
 
-![alt text](Task 1.png)
+![alt text]Cognifyz_PowerBi_Internship/Task 1.png)
